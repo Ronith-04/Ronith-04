@@ -3,6 +3,8 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 - 🎓 Final year ECE Undergrad at **Indian Institute Of Information Technology, JABALPUR.**
+
+- 👀 Interested in **Web Development & Competitive Programming**
   
 - 🔭 I’m currently working on **Web Development**
 
