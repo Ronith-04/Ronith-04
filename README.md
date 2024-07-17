@@ -2,7 +2,9 @@
 <h3 align="center">A Passionate FullStack Developer and a Competitive Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-- 🔭 I’m currently working on **Web Development and**
+- 🎓 Final year ECE Undergrad at **Indian Institute Of Information Technology, JABALPUR.**
+  
+- 🔭 I’m currently working on **Web Development**
 
 - 💬 Ask me about **I'd love answer them all!**
 
